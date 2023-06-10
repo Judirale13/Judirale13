@@ -1,8 +1,9 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Juan Diego Ramírez Lemos</h1>
+<h3 align="center">✨👨🏽‍💻 Estudiante Ingeniería de Sistemas y Computación 👨🏽‍💻✨</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juan diego ramírez lemos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan diego ramírez lemos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/judirale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="judirale" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
