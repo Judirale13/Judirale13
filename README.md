@@ -35,7 +35,8 @@ A microservices-based academic management system with a TypeScript and Node.js A
 
 ## Education and languages
 
-- **B.Sc. in Systems and Computing Engineering**, National University of Colombia
+- **Systems and Computing Engineer**  
+  National University of Colombia
 - **Spanish:** Native
 - **English:** B2 - Upper Intermediate
 
