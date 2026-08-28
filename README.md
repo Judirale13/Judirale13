@@ -1,27 +1,42 @@
-# Juan Diego Ramírez Lemos
+# Juan Diego Ramírez
 
-Desarrollador de software e Ingeniero de Sistemas y Computación de la Universidad Nacional de Colombia.
+**Software Engineer | Backend Systems, Enterprise Platforms & AI-Assisted Workflows**
 
-Me enfoco en construir aplicaciones web y APIs mantenibles, desde la lógica de negocio y las integraciones hasta el despliegue. Actualmente trabajo principalmente con **TypeScript, Node.js, Next.js y Java**, aplicando buenas prácticas de diseño, control de versiones y trabajo colaborativo.
+Software Engineer with 3+ years of experience building backend services, enterprise modules, APIs, reporting workflows, and business automation. I turn spreadsheet- and email-driven processes into secure systems that provide real-time operational data.
 
-## Tecnologías
+I currently lead three developers, coordinating technical decisions, code reviews, maintenance, and continuous improvement across enterprise operational platforms.
 
-- **Backend:** TypeScript, Node.js, Express, Java, Spring Boot, GraphQL
-- **Frontend:** Next.js, JavaScript
-- **Datos:** PostgreSQL, MySQL, MongoDB, Oracle
-- **Herramientas:** Docker, Git, GitHub Actions
+[Portfolio](https://juan-diego-ramirez.pages.dev/) · [Résumé](https://juan-diego-ramirez.pages.dev/deliverables/Juan_Diego_Ramirez_Resume_EN.pdf) · [LinkedIn](https://www.linkedin.com/in/judirale13/) · [Email](mailto:judirale@hotmail.com)
 
-## Proyectos destacados
+## What I work on
 
-- [AIMS – API Gateway](https://github.com/Judirale13/aims_api_gateway)  
-  Gateway para un sistema de gestión académica basado en microservicios. Integra GraphQL, Docker Compose, GitHub Actions y despliegue en Google Cloud.
+- Backend services and APIs for operational and business-critical workflows
+- Enterprise integrations that centralize data from ERP, asset management, and internal systems
+- Scheduled and on-demand reporting with PDF and Excel delivery
+- Secure access control, authentication, role-based permissions, and maintainable service boundaries
+- Applied AI workflows using structured outputs, validation, guardrails, and human oversight
 
-- [AIMS – Microservicio de colegios](https://github.com/Judirale13/aims_college_ms)  
-  Microservicio para la gestión de información académica dentro de la arquitectura AIMS.
+## Technical toolkit
 
-- [Entrénate](https://github.com/Judirale13/Entrenate)  
-  Backend para una plataforma web académica.
+- **Backend:** Node.js, TypeScript, Express, C#, ASP.NET, Laravel, Prisma
+- **Architecture & Security:** REST APIs, modular services, API integrations, secure authentication, RBAC
+- **Data & Delivery:** SQL Server, MySQL, MongoDB, Docker, Git, scheduled jobs, deployments, code reviews
+- **Applied AI:** OpenAI API, structured outputs, prompt engineering, business-rule validation, human-in-the-loop review
 
-## Contacto
+## Selected public work
 
-[LinkedIn](https://www.linkedin.com/in/judirale13/)
+### [AIMS - Academic Information Management System](https://github.com/Judirale13/aims_api_gateway)
+
+A microservices-based academic management system with a TypeScript and Node.js API gateway using Express, GraphQL, Apollo Server, Docker, and automated delivery workflows.
+
+- [API Gateway](https://github.com/Judirale13/aims_api_gateway)
+- [College Service](https://github.com/Judirale13/aims_college_ms)
+- [Subject Service](https://github.com/Judirale13/aims_subject_ms)
+
+## Education and languages
+
+- **B.Sc. in Systems and Computing Engineering**, National University of Colombia
+- **Spanish:** Native
+- **English:** B2 - Upper Intermediate
+
+Open to backend engineering opportunities and collaborations involving enterprise platforms, operational reporting, and practical AI automation.
